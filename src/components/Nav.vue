@@ -1,8 +1,8 @@
 <template>
-   <div class="bg-white text-red-800">
+   <div class="bg-black text-yellow-300">
         <div class="container mx-auto flex items-center italic justify-center ">
             <h1 class=" py-8 tracking-tighter text-3xl font-semibold">
-                My<span class="font-normal">Advice</span>
+                Words<span class="font-normal">of</span>Encouragement
                 </h1>
         </div>
         </div>
